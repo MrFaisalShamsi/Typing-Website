@@ -113,6 +113,10 @@
     margin-top : 50px ;
 }
 
+#btn1:disabled {
+    cursor: not-allowed;
+  }
+
 #btn2{
     margin-bottom : 20px ;
 }

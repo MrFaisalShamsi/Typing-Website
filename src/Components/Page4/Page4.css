@@ -4,3 +4,15 @@
     /* top: 1px ; */
     /* bottom : 0 ; */
   }
+
+  .page4 button{
+    display: block;
+    margin-top: 20px;
+    margin-left : 40vw ;
+    padding: 10px 20px;
+    background-color: green;
+    color: yellow;
+    border: none;
+    cursor: pointer;
+
+  }

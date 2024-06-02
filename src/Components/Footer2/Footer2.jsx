@@ -34,7 +34,6 @@ const Footer2 = () => {
             type='submit'
             className="proceed-button"
             disabled={!checked}
-            onClick={() => alert("Ready to begin")}
           >
             I am ready to begin
           </button>

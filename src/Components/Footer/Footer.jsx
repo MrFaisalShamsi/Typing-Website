@@ -32,7 +32,6 @@ const Footer = () => {
         type='submit' 
         className="proceed-button" 
         disabled={!checked} 
-        onClick={() => alert("Proceeding to the next step")}
       >
         Proceed
       </button>
