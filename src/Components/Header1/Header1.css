@@ -1,0 +1,60 @@
+.header1 {
+    width : 98% ;
+    height : 15vh ;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #000080;
+    color: white;
+  }
+
+  .font-size-controls1 {
+    margin: -25px 10px;
+  }
+  
+  .font-size-controls1 button {
+    margin: 0 5px;
+    padding: 2px 5px;
+  }
+  
+  .title1 {
+    width : 30% ;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .user-info1 {
+    width : 70%; 
+    /* display: flex; */
+    /* align-items: flex-start; */
+    /* flex-direction : row ; */
+  }
+
+  .user-details1{
+    /* display : flex ; */
+  }
+.user-details1 img{
+  width : 7vw ;
+  top : 0 ;
+  border-radius : 10px ;
+}
+
+.span{
+  margin-left : 10px ;
+  margin-top : -95px ;
+}
+  
+  .user-details1 span {
+    /* margin-top : -33px ; */
+    margin : 7px 0 ;
+    margin-left : 7vw ;
+    display: block;
+  }
+  
+  .timer {
+    margin-top: -50px;
+    margin-left : 36vw ;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  

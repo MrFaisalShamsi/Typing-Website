@@ -1,0 +1,39 @@
+.instructions-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .instructions-table th, .instructions-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  .instructions-table td{
+    text-align : center ;
+  }
+  
+  .instructions-table th {
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+
+  .info-table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  .info-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* .info-table .highlight {
+    color: red;
+  } */
+  
+  .highlighted-text {
+    color: red;
+  }

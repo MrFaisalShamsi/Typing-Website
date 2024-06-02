@@ -1,0 +1,29 @@
+.navbar{
+    width : 98vmax ;
+    height : 10vh ;
+    background : #000080 ;
+    color : #fff ;
+}
+
+.navbar-exam{
+    margin : 0 4px ;
+    padding-bottom : 10px ;
+}
+
+.navbar-exam h1{
+    margin-top : -5px ; 
+}
+
+.navbar-third{
+    margin : 0 4px ;
+    padding-bottom : 20px ;
+}
+
+.navbar-page4{
+    display : flex ;
+    align-items : center ;
+    justify-content : center ;
+}
+
+
+

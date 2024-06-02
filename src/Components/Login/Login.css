@@ -1,0 +1,105 @@
+.login{
+    height : 90vh ;
+    display : flex ;
+    flex-direction : column ;
+    align-items : center ;
+    justify-content : center ;
+    /* background : green ; */
+    /* margin-bottom : 200px ; */
+}
+.nav{
+    height : 5vh ;
+}
+
+.login-container{
+    width : 60vw ;
+    height : 89vh ;
+    margin : 10px 0 ;
+    display : flex ;
+    flex-direction : column ;
+    align-items : center ;
+}
+
+.heading{
+    font-size : 2.5vw ;
+    margin : 50px 0 ;
+}
+
+.heading span{
+    color : red ;
+}
+
+.form{
+    width : 100% ;
+}
+
+.login-div{
+    width : 100% ;
+    height : 6.5vh ;
+    background : #000080 ;
+    color : #fff ;
+    display : flex ;
+    align-items : center ;
+    justify-content : center ;
+}
+
+.mid-container{
+    display : flex ;
+    flex-direction : row ;
+    justify-content : space-between ;
+    margin : 0 -1px ;
+    border-left : 2px solid #808080 ;
+    border-right : 2px solid #808080 ;
+}
+
+.mid-left{
+    width : 50% ;
+    margin : 0 50px ;
+    /* background : green ; */
+}
+
+.mid-left span{
+    color : red;
+}
+
+.mid-right{
+    width : 50% ;
+    display : flex ;
+    flex-direction : column ;
+    align-items : center ;
+    justify-content : center ; 
+    margin : 0 68px ;
+}
+
+.mid-right input{
+    margin : 5px 0 ;
+    padding : 5px 20px ;
+}
+
+.btn{
+    padding : 5px 25px ;
+    font-size : 1.1vw ; 
+    font-weight : 500 ;
+    cursor : pointer ;
+}
+
+.para{
+    color : red ;
+    font-size : 1.2vw ;
+    font-weight : 600 ;
+    margin : 0 260px ;
+    margin-top : 20px ;
+}
+.error{
+    color : red ;
+    font-size : 1.2vw ;
+    font-weight : 600 ;
+    margin : 0 260px ;
+    margin-top : 20px ;
+}
+
+.text-area{
+    width : 80% ;
+    /* margin-top : 3px ; */
+    background : yellow ;
+}

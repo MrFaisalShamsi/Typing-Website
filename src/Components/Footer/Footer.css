@@ -1,0 +1,36 @@
+.footer{
+    width : 98% ;
+    margin-top: 20px;
+    display : flex ;
+    align-items : center ;
+  }
+
+  .footer form{
+    width : 100% ;
+    /* background : blue ; */
+  }
+  
+  .footer label {
+    margin-left: 10px;
+    color : red ;
+  }
+
+  .btn-footers{
+    height : 10vh ;
+    margin-top : 2.5vw ;
+    margin-left : 89vw ;
+  }
+  
+  .proceed-button {
+    display: block;
+    margin-top: -50px;
+    padding: 10px 20px;
+    background-color: green;
+    color: yellow;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .proceed-button:disabled {
+    cursor: not-allowed;
+  }

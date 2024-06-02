@@ -1,0 +1,17 @@
+.instructions ol {
+    padding-left: 20px;
+  }
+  
+  .instructions ul {
+    list-style-type: disc;
+    padding-left: 40px;
+  }
+
+  .instructions button{
+    padding: 10px 20px;
+    background-color: green;
+    color: yellow;
+    border: none;
+    border-radius : 5px ;
+    cursor: pointer;
+  }

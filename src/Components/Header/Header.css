@@ -1,0 +1,18 @@
+.header {
+    width : 98vmax ;
+    height : 10vh ;
+    background : #000080 ;
+    color : #fff ;
+    /* text-align: center; */
+    margin-bottom: 20px;
+    margin-top : -18px ;
+  }
+
+  .font-size-controls {
+    margin: -25px 10px;
+  }
+  
+  .font-size-controls button {
+    margin: 0 5px;
+    padding: 2px 5px;
+  }

@@ -1,0 +1,43 @@
+.footer {
+    margin-top: 20px;
+    width : 100% ;
+  }
+
+  /* .footer form{
+    display : flex ;
+    align-items : center ;
+    justify-content : center ;
+  } */
+  
+  .confirmation {
+    display : flex;
+    align-items : center ;
+    justify-content : center ;
+    margin-bottom: 10px;
+    color : red;
+  }
+
+  .btn-footer{
+    width : 100% ;
+    display : flex ;
+    align-items : center ;
+    justify-content : center ;
+    height : 30vh ;
+    margin-top : -5px ; 
+    margin-left : 0 ;
+    border-bottom : 4px solid #808080 ;
+    /* background : yellow ; */
+  }
+  
+  /* .proceed-button {
+    padding: 10px 20px;
+    background-color: green;
+    color: yellow;
+    border: none;
+    border-radius : 5px ;
+    cursor: pointer;
+  } */
+  
+  .proceed-button:disabled {
+    cursor: not-allowed;
+  }
